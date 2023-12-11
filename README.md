@@ -1,4 +1,4 @@
-### Hi there 👋 My name is Furkan Uzun. I'm studying Computer Science in Farmingdale State College.
+### 👋 Hi! My name is Furkan Uzun. I'm studying Computer Science in Farmingdale State College.
 
 
 
