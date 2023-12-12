@@ -8,6 +8,17 @@
 - 💞️ I’m looking to collaborate on open source java projects
 - ⚡ Fun fact: I love coding -_-
 
->[IMPORTANT]
->!!!!!!!!!!
+> [!IMPORTANT]
+>  !
+
+> [!NOTE]
+> !
+
+> [!WARNING]
+> !
+
+> [!TIP]
+> !
+
+
 
