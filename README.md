@@ -2,8 +2,7 @@
 
 
 
-- 🔭 I’m currently working on personal projects.
-- 🌱 TBD
+- 🔭 I’m currently working on ChatBox application and other personel projects.
 - 📫 Reach me: www.linkedin.com/in/furkanxny28
 - ⚡ Fun fact: I love coding -_-
 
