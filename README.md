@@ -1,7 +1,7 @@
 #  Hi! I'm Furkan <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="35" />
 > [!IMPORTANT]
 > - 📖 I'm Computer Science student studying in Farmingdale State College.
-> - 🔭 Currently working on ChatBox application and other personel projects.
+> - 🔭 Currently working on VitalVues AI Diet and Workout plan application and other personel projects.
 > - ⚡ Fun fact: I love coding -_-
 
  <!---
